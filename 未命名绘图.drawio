@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:15:43.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.5" etag="Rxj3njdYL9WHfDOF1DU_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:32:02.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UcVu2oATo3_bloXx5a2_" version="22.0.5" type="github">
   <diagram name="第 1 页" id="omGcXEY8-tabJq8hoSqz">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IGPGHX3xFUD61vENqsDa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-1" target="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-1" target="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-1" target="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-1" target="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-1" target="IGPGHX3xFUD61vENqsDa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-1" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="300" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-7" target="IGPGHX3xFUD61vENqsDa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-7" value="智能对话（接入第三方AI如 讯飞，百度，chatGpt）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-9" value="自定义表情" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-11" value="人物预设，表情，语言，动作部分可控" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-13" value="自定义动作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-2" target="IGPGHX3xFUD61vENqsDa-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-2" value="预设台词（适用场景：演讲，引导，介绍）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-19" value="自定义讲话内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
