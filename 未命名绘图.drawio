@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:32:02.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UcVu2oATo3_bloXx5a2_" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:38:43.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dwr8qxlZ-QXuBCQ9wec8" version="22.0.5" type="github">
   <diagram name="第 1 页" id="omGcXEY8-tabJq8hoSqz">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGPGHX3xFUD61vENqsDa-1" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGPGHX3xFUD61vENqsDa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-2">
           <mxGeometry relative="1" as="geometry">
@@ -61,6 +61,44 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-24" target="IGPGHX3xFUD61vENqsDa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-24" value="资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-25" value="模型&lt;br&gt;（脸blendshapes）&lt;br&gt;（身体 骨骼）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-28" value="骨骼动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-29" target="IGPGHX3xFUD61vENqsDa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-29" target="IGPGHX3xFUD61vENqsDa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IGPGHX3xFUD61vENqsDa-29" target="IGPGHX3xFUD61vENqsDa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-29" value="资源结构组成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-30" value="表情通过脸部blendshapes在Unity中进行捏造扩展（VRM插件实现）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-31" value="口型讲话时的口型同根据脸部blendshapes的AIEUO口型（Unity成熟口型同步对接）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGPGHX3xFUD61vENqsDa-32" value="动作（骨骼动画）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
